@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554724435646",
+    "firebase_url": "https://iorderat-tds.firebaseio.com",
+    "project_id": "iorderat-tds",
+    "storage_bucket": "iorderat-tds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554724435646:android:ee99371b0d94131a5260ef",
+        "android_client_info": {
+          "package_name": "com.elmostafa.ethicstask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554724435646-fc9hlet7crr1m30hr9f4crptqe5lntj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH9uLn5XnSJlTn2P7MwPXevT8u2kLxOaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554724435646-fc9hlet7crr1m30hr9f4crptqe5lntj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EthicsLogin</string>
+    <string name="welcome_to_ethics">Welcome to Ethics</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_with_gmail">Login with Gmail</string>
+    <string name="invaildPasswordLenght">Invaild password must contain 7 characters or more</string>
+    <string name="noconnection">No Network Connection</string>
+    <string name="loading">Loading ......</string>
+    <string name="empty_email">Email is Empty</string>
+    <string name="invaildphone">Invaild email</string>
+    <string name="emptyPassword">Your Password is Empty</string>
+    <string name="welcome">welcome</string>
+    <string name="logout">logout</string>
+    <string name="login">Login</string>
+
+
+</resources>
